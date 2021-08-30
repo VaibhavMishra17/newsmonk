@@ -3,7 +3,7 @@
   "totalResults": 4,
   "articles": [
     {
-      "source": { "id": "news24", "name": "News24" },
+      "source": {"id": "news24", "name": "News24"},
       "author": "Sibusiso Mjikeliso",
       "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
       "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
@@ -13,7 +13,7 @@
       "content": "<ul><li>Cricket South Africa has committed to \"getting to the bottom\" of Enoch Nkwe's sudden resignation as Proteas assistant coach. </li><li>Nkwe voiced concerns with the current culture and working… [+3497 chars]"
     },
     {
-      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "source": {"id": "abc-news-au", "name": "ABC News (AU)"},
       "author": "ABC News",
       "title": "England cricket great Ted Dexter dies aged 86",
       "description": "The former England captain, nicknamed \"Lord Ted\", is fondly remembered as a giant of the game and one of his country's greatest players.",
@@ -23,7 +23,7 @@
       "content": "Former England captain Ted Dexter has died aged 86 following a recent illness.\r\n<ul><li>Dexter played 62 Tests for England and was captain on 30 occasions</li><li>He was inducted into the ICC Hall of… [+1746 chars]"
     },
     {
-      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "source": {"id": "espn-cric-info", "name": "ESPN Cric Info"},
       "author": null,
       "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
       "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
@@ -33,7 +33,7 @@
       "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
     },
     {
-      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "source": {"id": "espn-cric-info", "name": "ESPN Cric Info"},
       "author": null,
       "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
       "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
